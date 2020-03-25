@@ -1,0 +1,4 @@
+Being able to compare two dna sequences and get their distance in as little as 15 min on a normal desktop is incredible.
+It really has amazing applications in the scientific field. This allows us to really dive indepth into
+DNA and figure out how we compare to other species. This allows us to do more accurate testing and see how 
+we can improve the human life. 
